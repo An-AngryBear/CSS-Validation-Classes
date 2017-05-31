@@ -1,0 +1,10 @@
+h1 {
+	text-align: center;
+}
+
+#contactinfo input:valid {
+	background-color: lightgreen;
+}
+input:invalid {
+	background-color: tomato;
+}
